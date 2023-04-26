@@ -124,6 +124,7 @@ public class Graph : MonoBehaviour
 				}
 			}
 		}
+		
 		path.Bake ();
 		return path;
 	}
